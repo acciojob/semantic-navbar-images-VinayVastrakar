@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+ul,li{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	display:inline;
+	background-color:black;
+  float: left;
+	height:100pxz
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
